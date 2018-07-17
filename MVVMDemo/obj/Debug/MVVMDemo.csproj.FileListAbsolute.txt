@@ -1,0 +1,29 @@
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\bin\Debug\MVVMDemo.exe
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\bin\Debug\MVVMDemo.pdb
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\obj\Debug\UserRegistrationView.g.cs
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\obj\Debug\App.g.cs
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo_MarkupCompile.cache
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo_MarkupCompile.lref
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\obj\Debug\UserRegistrationView.baml
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.g.resources
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.Properties.Resources.resources
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.csproj.GenerateResource.Cache
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.exe
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.pdb
+C:\Documents and Settings\secret\My Documents\Visual Studio 2008\Projects\MVVMDemo\MVVMDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\bin\Debug\MVVMDemo.exe
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\bin\Debug\MVVMDemo.pdb
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\UserRegistrationView.g.cs
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\App.g.cs
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo_MarkupCompile.cache
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo_MarkupCompile.lref
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\UserRegistrationView.baml
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.g.resources
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.Properties.Resources.resources
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.csproj.GenerateResource.cache
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.csproj.CoreCompileInputs.cache
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.exe
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.pdb
+C:\Users\srohithr\Downloads\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.csprojAssemblyReference.cache
